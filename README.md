@@ -1,6 +1,7 @@
 # dsp_research_paper
 
-The application requires some libraries to be installed which can be done by the help of requirements.txt file
+The application requires some libraries to be installed which can be done by the help of requirements.txt file.
+Install python and pip on the system before executing the following command
 
 `pip install -r requirements.txt`
 
