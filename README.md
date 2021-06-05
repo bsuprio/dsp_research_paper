@@ -1,8 +1,9 @@
 # dsp_research_paper
 
-install the requirements.txt file by command
-pip install -r requirements.txt
+The application requires some libraries to be installed which can be done by the help of requirements.txt file
 
-the dsp_app_guide.docx provide a insight about how to use the app
+`pip install -r requirements.txt`
 
-download the app.py and run
+The **dsp_app_guide.docx** provide a basic doumentation about how to use the application and to use its options
+
+Download all the files and first install the libraries and then run the **app_v1.py**
