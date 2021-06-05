@@ -9,4 +9,4 @@ The **dsp_app_guide.docx** provide a basic doumentation about how to use the app
 
 Download all the files and first install the libraries and then run the **app_v1.py**
 
-Run the application and if some errors is found or wants to include some modification please mention those in the google doc file [Python_dsp_app_errors](https://docs.google.com/document/d/1D8qmr0lLRyDMbVXCr2fBWg0c7_Pp_vo2S8zlKBrbBuM/edit)
+Run the application and if some errors are found or someone wants to suggests some modification please mention those in the google doc file [Python_dsp_app_errors](https://docs.google.com/document/d/1D8qmr0lLRyDMbVXCr2fBWg0c7_Pp_vo2S8zlKBrbBuM/edit)
